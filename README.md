@@ -1,4 +1,5 @@
-# dark-mode-script
+# toggle-dark-mode-script
+
 *An AppleScript that toggles Dark Mode*
 
-Used in my app [Lucifer](https://www.hexedbits.com/lucifer/).
+### Used in the [Lucifer](https://www.hexedbits.com/lucifer/) menu bar app.
